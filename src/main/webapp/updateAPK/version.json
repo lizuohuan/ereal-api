@@ -1,0 +1,16 @@
+{
+    "apkUrl":"http://7xnfyf.com1.z0.glb.clouddn.com/ereal-13-1.0.0.13-debug.apk",
+    "size":"4.7M",
+	"appName":"一真OA",
+	"changeLog":"
+	1.修复外部项目崩溃问题<br/>
+	2.UI界面调整<br/>
+	",
+	"created_at":"2017-05-23",
+	"isForce":0,
+	"isAutoInstall":1,
+	"versionName":"1.0.0.13",
+	"updateTips":"更新",
+	"versionCode":"13",
+	"status":1
+}
